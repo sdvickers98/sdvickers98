@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Dakota 👋
+
+I study Computer Science and Mathematics at the University of Georgia in Athens, Georgia. I'm mainly interested in cyber security and pen testing. I enjoy playing wargames and CTFs (Capture the Flag games), and I'm working on writing up walkthroughs for some of my favorites.
+
+I'm currently working on my first one, it's a walkthrough for picoCTF and you can check it out [here](https://github.com/sdvickers98/picoCTF-2019-Walkthrough).
 
 <!--
 **sdvickers98/sdvickers98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
