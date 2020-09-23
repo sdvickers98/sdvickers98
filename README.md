@@ -4,6 +4,8 @@ I study Computer Science and Mathematics at the University of Georgia in Athens,
 
 I'm currently working on my first one. It's a walkthrough of picoCTF and you can check it out [here](https://github.com/sdvickers98/picoCTF-2019-Walkthrough).
 
+I use [pwntools](https://github.com/Gallopsled/pwntools) a lot for CTFs and wargames, and I'm working on a [tutorial](https://github.com/sdvickers98/pwntools_Tutorials) that covers how to accomplish various different attacks and techniques using this powerful Python framework.
+
 <!--
 **sdvickers98/sdvickers98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
