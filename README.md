@@ -1,10 +1,12 @@
 ### Hey, I'm Dakota 👋
 
-I study Computer Science and Mathematics at the University of Georgia in Athens, Georgia. I'm mainly interested in cyber security and pen testing. I enjoy playing wargames and CTFs (Capture the Flag games), and I'm working on writing up walkthroughs for some of my favorites.
+I studied Computer Science and Mathematics at the University of Georgia in Athens, Georgia. I'm mainly interested in cyber security and pen testing. I enjoy playing wargames and CTFs (Capture the Flag games), and I'm working on writing up walkthroughs for some of my favorites.
 
 I've done quite of few hand-written writeups of TryHackMe boxes, and you can find those [here](https://github.com/sdvickers98/TryHackMe-Writeups/blob/main/README.md).
 
-I'm currently working on a walkthrough of picoCTF and you can check it out [here](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/README.md).
+I'm also working on a walkthrough of picoCTF 2019 and you can check it out [here](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/README.md).
+
+I currently work as an application security engineer at NCR Corporation, regularly conducting web application penetration tests on internally-developed software in order to improve the company's overall security posture.
 
 <!--
 **sdvickers98/sdvickers98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
