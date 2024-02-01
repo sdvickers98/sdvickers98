@@ -1,12 +1,17 @@
 ### Hey, I'm Dakota 👋
 
-I studied Computer Science and Mathematics at the University of Georgia in Athens, Georgia. I'm mainly interested in cyber security and pen testing. I enjoy playing wargames and CTFs (Capture the Flag games), and I'm working on writing up walkthroughs for some of my favorites.
+I studied Computer Science and Mathematics at the University of Georgia in Athens, Georgia. I've worked in the cybersecurity industry for about 3 years (as of January 2024) with a focus on application and cloud pentesting.
 
-I've done quite of few hand-written writeups of TryHackMe boxes, and you can find those [here](https://github.com/sdvickers98/TryHackMe-Writeups/blob/main/README.md).
+A few years ago, I made quite a few hand-written writeups of TryHackMe boxes, and you can find those [here](https://github.com/sdvickers98/TryHackMe-Writeups/blob/main/README.md).
 
-I'm also working on a walkthrough of picoCTF 2019 and you can check it out [here](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/README.md).
+I've also got a [website](https://bufoverflow.com) where I post writeups of HackTheBox machines and other CTF-like challenges. I plan on adding more non-writeup content, like PoCs for new exploits and certification reviews. The website also has a cheatsheets section that I'm currently expanding where you can find cheatsheets and reference materials for everything from Linux commands to hacking techniques.
 
-I currently work as an application security engineer at NCR Corporation, regularly conducting web application penetration tests on internally-developed software in order to improve the company's overall security posture.
+In relation to the cheatsheets on my website, I wrote a small (crappy) script that generates a Table of Contents for a markdown file based on the headers in the file. You can find it [here](https://github.com/sdvickers98/markdown-toc).
+
+You can contact me through my website or through these:
+* [LinkedIn](https://www.linkedin.com/in/dakota-vickers-90748a190/)
+* [Twitter](https://twitter.com/buf0v3rfl0w)
+* [Email](samueldakotavickers@gmail.com)
 
 <!--
 **sdvickers98/sdvickers98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
