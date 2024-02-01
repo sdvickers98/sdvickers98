@@ -11,7 +11,7 @@ In relation to the cheatsheets on my website, I wrote a small (crappy) script th
 You can contact me through my website or through these:
 * [LinkedIn](https://www.linkedin.com/in/dakota-vickers-90748a190/)
 * [Twitter](https://twitter.com/buf0v3rfl0w)
-* [Email](samueldakotavickers@gmail.com)
+* Email: <samueldakotavickers@gmail.com>
 
 <!--
 **sdvickers98/sdvickers98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
