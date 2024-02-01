@@ -6,7 +6,7 @@ A few years ago, I made quite a few hand-written writeups of TryHackMe boxes, an
 
 I've also got a [website](https://bufoverflow.com) where I post writeups of HackTheBox machines and other CTF-like challenges. I plan on adding more non-writeup content, like PoCs for new exploits and certification reviews. The website also has a cheatsheets section that I'm currently expanding where you can find cheatsheets and reference materials for everything from Linux commands to hacking techniques.
 
-In relation to the cheatsheets on my website, I wrote a small (crappy) script that generates a Table of Contents for a markdown file based on the headers in the file. You can find it [here](https://github.com/sdvickers98/markdown-toc).
+In relation to the cheatsheets on my website, I wrote a small bash script that generates a Table of Contents for a markdown file based on the headers in the file. You can find it [here](https://github.com/sdvickers98/markdown-toc).
 
 You can contact me through my website or through these:
 * [LinkedIn](https://www.linkedin.com/in/dakota-vickers-90748a190/)
